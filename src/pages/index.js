@@ -220,7 +220,6 @@ export default function Home() {
         </main>
 
         <footer className={styles.footer}>
-          <i><a className={styles.a} href="https://github.com/x-dr/chatgptProxyAPI">By @x-dr</a></i>
           {isLoading ? (
             <p>正在测试响应时间...</p>
           ) : (
