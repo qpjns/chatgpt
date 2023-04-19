@@ -192,7 +192,7 @@ export default function Home() {
 
       <div className={styles.container}>
         <header className={styles.header}>
-          <h1 className={styles.h1}>查询 ChatGPTAPI 余额</h1>
+          <h1 className={styles.h1}>查询ChatGPTAPI余额</h1>
         </header>
         <main className={styles.main}>
 
